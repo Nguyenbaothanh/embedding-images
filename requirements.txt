@@ -9,4 +9,5 @@ ftfy
 packaging
 regex
 tqdm
+supabase-py
 --extra-index-url https://download.pytorch.org/whl/cpu
