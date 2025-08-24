@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+python-multipart
+numpy
+ftfy
+packaging
+regex
+tqdm
+--extra-index-url https://download.pytorch.org/whl/cpu
